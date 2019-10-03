@@ -3,7 +3,7 @@
     <title>EdPsyc</title>
     <link href="https://derekjhanson.github.io/edpsyc/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/edpsyc" />
-    <updated>2019-10-03T13:09:36-05:00</updated>
+    <updated>2019-10-03T16:29:07-05:00</updated>
     <author>
         <name>DJH</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://derekjhanson.github.io/edpsyc/individual-differences.html"/>
         <id>https://derekjhanson.github.io/edpsyc/individual-differences.html</id>
 
-        <updated>2019-10-03T12:59:53-05:00</updated>
+        <updated>2019-10-03T16:29:00-05:00</updated>
             <summary>
                 <![CDATA[
-                    MotivationFear of Failure Achievement Goal TheoryMastery/Performance; Appraoch/AvoidGritGrit, Conscioentiousness, SchoolAcademic Motivation (AMS)InterestSituational, intrinsicProcrastinationAcademic ProcrastinationBoredom Self-RegulationSelf-Regulated Learning (SRL) Implicit BeliefsBelongingStereotype Threat, Belonging in SchoolIntelligenceFixed, Growth/MalleableNature of KnowledgeEpistemic BeliefsSelf-ControlWillpower, Self-ControlValueUtility Value,&hellip;
+                    MotivationFear of Failure Achievement Goal TheoryMastery/Performance; Appraoch/Avoid GritGrit, Conscioentiousness, Grit, Grit-ShortSchoolAcademic Motivation (AMS) InterestSituational, intrinsic ProcrastinationAcademic Procrastination Boredom Self-RegulationSelf-Regulated Learning (SRL) Implicit BeliefsBelongingStereotype Threat, Belonging in School IntelligenceFixed, Growth/MalleableGrowth Mindset&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,34 +31,42 @@
 <tr>
 <td>Fear of Failure</td>
 <td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Achievement Goal Theory</td>
 <td>Mastery/Performance; Appraoch/Avoid</td>
+<td> </td>
 </tr>
 <tr>
 <td>Grit</td>
 <td>Grit, Conscioentiousness, </td>
+<td>Grit, Grit-Short</td>
 </tr>
 <tr>
 <td>School</td>
 <td>Academic Motivation (AMS)</td>
+<td> </td>
 </tr>
 <tr>
 <td>Interest</td>
 <td>Situational, intrinsic</td>
+<td> </td>
 </tr>
 <tr>
 <td>Procrastination</td>
 <td>Academic Procrastination</td>
+<td> </td>
 </tr>
 <tr>
 <td>Boredom</td>
+<td> </td>
 <td> </td>
 </tr>
 <tr>
 <td>Self-Regulation</td>
 <td>Self-Regulated Learning (SRL)</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -68,70 +76,92 @@
 <tr>
 <td>Belonging</td>
 <td>Stereotype Threat, Belonging in School</td>
+<td> </td>
 </tr>
 <tr>
 <td>Intelligence</td>
 <td>Fixed, Growth/Malleable</td>
+<td>Growth Mindset (Dweck), "I" pronoun (De Castella &amp; Byrne, 2015)</td>
 </tr>
 <tr>
 <td>Nature of Knowledge</td>
 <td>Epistemic Beliefs</td>
+<td> </td>
 </tr>
 <tr>
 <td>Self-Control</td>
 <td>Willpower, Self-Control</td>
+<td> MSLQ</td>
+</tr>
+<tr>
+<td>Locus of Control </td>
+<td>What is in charge of your life?</td>
+<td>LOCS (Nowicki-Strickland)</td>
 </tr>
 <tr>
 <td>Value</td>
 <td>Utility Value, Self-Value, Boring but Important, Value of Education/School</td>
+<td> </td>
 </tr>
 <tr>
 <td>Personality</td>
 <td>Whether people can change</td>
+<td> </td>
 </tr>
 <tr>
 <td>Difficulty</td>
 <td>Sanctifying, Impossible, Important</td>
+<td> </td>
 </tr>
 <tr>
 <td>Cognition</td>
 <td>NFC, beliefs about enjoyment of cognition</td>
+<td>NFC (Cacioppo &amp; Petty), NFC-Short (Roets &amp; Van Hiel)</td>
 </tr>
 <tr>
 <td>Self-Efficacy</td>
 <td>Academic self-efficacy, college self-efficacy</td>
+<td> </td>
 </tr>
 <tr>
 <td>New Experiences</td>
 <td>Openness to Experience</td>
+<td> </td>
 </tr>
 <tr>
 <td>Entitlement</td>
 <td>Academic Entitlement</td>
+<td> </td>
 </tr>
 <tr>
 <td>Metacognition</td>
 <td>Usefulness...</td>
+<td> MSLQ?</td>
 </tr>
 <tr>
 <td>Beliefs About Failure</td>
 <td>Who's fault, what caused</td>
+<td> </td>
 </tr>
 <tr>
 <td>Memory</td>
 <td>Photographic, Permanent, Fallible, etc. (stability bias)</td>
+<td> </td>
 </tr>
 <tr>
 <td>Studying</td>
 <td>Best way to, effective means/ineffective, Tendencies</td>
+<td>Desirable Difficulties Scale (Yan), MSLQ</td>
 </tr>
 <tr>
 <td>Evaluating Learning</td>
 <td>Metacognitive Beliefs</td>
+<td> </td>
 </tr>
 <tr>
 <td>Beliefs about Future</td>
 <td>Optimistic, Pessimistic for self</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -141,26 +171,57 @@
 <tr>
 <td>Big 5</td>
 <td>FFO and short version, or TIPI (Gosling 2003)</td>
+<td> </td>
 </tr>
 <tr>
 <td>Neuroticism</td>
+<td> </td>
 <td> </td>
 </tr>
 <tr>
 <td>Anxiety</td>
 <td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Narcissism</td>
 <td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Curiosity, Inquisitiveness</td>
-<td> </td>
+<td> Open-minded thinking</td>
+<td> AOT</td>
 </tr>
 <tr>
 <td>Most salient identities</td>
 <td>Identity-Based Motivation</td>
+<td> </td>
+</tr>
+<tr>
+<td>Mindfulness</td>
+<td> </td>
+<td>FFMQ, MAAS</td>
+</tr>
+<tr>
+<td>Decision-Making</td>
+<td>Rely upon heuristics, or more analytical</td>
+<td>CRT (multiple versions)</td>
+</tr>
+<tr>
+<td>Perspective-Taking</td>
+<td>Myside or otherside thinking bias</td>
+<td>? Toplak?</td>
+</tr>
+<tr>
+<td>Impact of Context to Decision-Making</td>
+<td>Propensity to rely more on context or logic for decision-making</td>
+<td>STSS (Novak &amp; Hoffman), Rational-Experiential Inventory</td>
+</tr>
+<tr>
+<td>Delay Discounting</td>
+<td>Consideration of future consequences</td>
+<td>CFC ()</td>
 </tr>
 </tbody>
 </table>
@@ -170,14 +231,37 @@
 <tr>
 <td>Mindfulness</td>
 <td>Attention, Presence</td>
+<td>State MAAS</td>
 </tr>
 <tr>
 <td>Depression</td>
 <td>Beck, alternative scales</td>
+<td> </td>
 </tr>
 <tr>
+<td>Life Satisfaction</td>
 <td> </td>
+<td>SLS (Diener), Student LSS (Huebner), Student LSS - Brief (Huebner)</td>
+</tr>
+<tr>
+<td>Need Satisfaction</td>
 <td> </td>
+<td>(Ryan &amp; Deci)</td>
+</tr>
+<tr>
+<td>Recent Emotions</td>
+<td> </td>
+<td>PANAS, Vitality (Ryan &amp; Frederick)</td>
+</tr>
+<tr>
+<td>Perceived Stress</td>
+<td>How stressed do you feel?</td>
+<td>PSS (Cohen et al 1983)</td>
+</tr>
+<tr>
+<td>Learning Climate</td>
+<td>The learning climate questionairre</td>
+<td>LCQ</td>
 </tr>
 </tbody>
 </table>
