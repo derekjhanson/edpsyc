@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EdPsyc",
+    "description": "",
+    "home_page_url": "https://derekjhanson.github.io/edpsyc",
+    "feed_url": "https://derekjhanson.github.io/edpsyc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DJH"
+    },
+    "items": [
+        {
+            "id": "https://derekjhanson.github.io/edpsyc/individual-differences.html",
+            "url": "https://derekjhanson.github.io/edpsyc/individual-differences.html",
+            "title": "Individual Differences",
+            "summary": "MotivationFear of Failure Achievement Goal TheoryMastery/Performance; Appraoch/AvoidGritGrit, Conscioentiousness, SchoolAcademic Motivation (AMS)InterestSituational, intrinsicProcrastinationAcademic ProcrastinationBoredom Self-RegulationSelf-Regulated Learning (SRL) Implicit BeliefsBelongingStereotype Threat, Belonging in SchoolIntelligenceFixed, Growth/MalleableNature of KnowledgeEpistemic BeliefsSelf-ControlWillpower, Self-ControlValueUtility Value, Self-Value, Boring but Important, Value of Education/SchoolPersonalityWhether people can changeDifficultySanctifying, Impossible, ImportantCognitionNFC, beliefs about enjoyment of cognitionSelf-EfficacyAcademic self-efficacy, college self-efficacyNew ExperiencesOpenness&hellip;",
+            "content_html": "<h4 id=\"mcetoc_1dm9a0l6i1\">Motivation</h4>\n<table>\n<tbody>\n<tr>\n<td>Fear of Failure</td>\n<td> </td>\n</tr>\n<tr>\n<td>Achievement Goal Theory</td>\n<td>Mastery/Performance; Appraoch/Avoid</td>\n</tr>\n<tr>\n<td>Grit</td>\n<td>Grit, Conscioentiousness, </td>\n</tr>\n<tr>\n<td>School</td>\n<td>Academic Motivation (AMS)</td>\n</tr>\n<tr>\n<td>Interest</td>\n<td>Situational, intrinsic</td>\n</tr>\n<tr>\n<td>Procrastination</td>\n<td>Academic Procrastination</td>\n</tr>\n<tr>\n<td>Boredom</td>\n<td> </td>\n</tr>\n<tr>\n<td>Self-Regulation</td>\n<td>Self-Regulated Learning (SRL)</td>\n</tr>\n</tbody>\n</table>\n<h4 id=\"mcetoc_1dm9a25de2\"> Implicit Beliefs</h4>\n<table>\n<tbody>\n<tr>\n<td>Belonging</td>\n<td>Stereotype Threat, Belonging in School</td>\n</tr>\n<tr>\n<td>Intelligence</td>\n<td>Fixed, Growth/Malleable</td>\n</tr>\n<tr>\n<td>Nature of Knowledge</td>\n<td>Epistemic Beliefs</td>\n</tr>\n<tr>\n<td>Self-Control</td>\n<td>Willpower, Self-Control</td>\n</tr>\n<tr>\n<td>Value</td>\n<td>Utility Value, Self-Value, Boring but Important, Value of Education/School</td>\n</tr>\n<tr>\n<td>Personality</td>\n<td>Whether people can change</td>\n</tr>\n<tr>\n<td>Difficulty</td>\n<td>Sanctifying, Impossible, Important</td>\n</tr>\n<tr>\n<td>Cognition</td>\n<td>NFC, beliefs about enjoyment of cognition</td>\n</tr>\n<tr>\n<td>Self-Efficacy</td>\n<td>Academic self-efficacy, college self-efficacy</td>\n</tr>\n<tr>\n<td>New Experiences</td>\n<td>Openness to Experience</td>\n</tr>\n<tr>\n<td>Entitlement</td>\n<td>Academic Entitlement</td>\n</tr>\n<tr>\n<td>Metacognition</td>\n<td>Usefulness...</td>\n</tr>\n<tr>\n<td>Beliefs About Failure</td>\n<td>Who's fault, what caused</td>\n</tr>\n<tr>\n<td>Memory</td>\n<td>Photographic, Permanent, Fallible, etc. (stability bias)</td>\n</tr>\n<tr>\n<td>Studying</td>\n<td>Best way to, effective means/ineffective, Tendencies</td>\n</tr>\n<tr>\n<td>Evaluating Learning</td>\n<td>Metacognitive Beliefs</td>\n</tr>\n<tr>\n<td>Beliefs about Future</td>\n<td>Optimistic, Pessimistic for self</td>\n</tr>\n</tbody>\n</table>\n<h4 id=\"mcetoc_1dm9aaerk3\"> Personality</h4>\n<table>\n<tbody>\n<tr>\n<td>Big 5</td>\n<td>FFO and short version, or TIPI (Gosling 2003)</td>\n</tr>\n<tr>\n<td>Neuroticism</td>\n<td> </td>\n</tr>\n<tr>\n<td>Anxiety</td>\n<td> </td>\n</tr>\n<tr>\n<td>Narcissism</td>\n<td> </td>\n</tr>\n<tr>\n<td>Curiosity, Inquisitiveness</td>\n<td> </td>\n</tr>\n<tr>\n<td>Most salient identities</td>\n<td>Identity-Based Motivation</td>\n</tr>\n</tbody>\n</table>\n<h4 id=\"mcetoc_1dm9b1mjh4\"> State (not trait)</h4>\n<table>\n<tbody>\n<tr>\n<td>Mindfulness</td>\n<td>Attention, Presence</td>\n</tr>\n<tr>\n<td>Depression</td>\n<td>Beck, alternative scales</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p>Big list on Drive: https://docs.google.com/document/d/16NCR7pGN77rRyxepruetfUeSOkkVHKc4DAR7FF3mSTo/edit#</p>\n<p> </p>",
+            "author": {
+                "name": "DJH"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-03T12:47:20-05:00",
+            "date_modified": "2019-10-03T12:59:53-05:00"
+        }
+    ]
+}
