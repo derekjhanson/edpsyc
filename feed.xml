@@ -3,7 +3,7 @@
     <title>EdPsyc</title>
     <link href="https://derekjhanson.github.io/edpsyc/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/edpsyc" />
-    <updated>2019-10-03T16:29:07-05:00</updated>
+    <updated>2019-10-04T15:36:54-05:00</updated>
     <author>
         <name>DJH</name>
     </author>
@@ -17,21 +17,21 @@
         <link href="https://derekjhanson.github.io/edpsyc/individual-differences.html"/>
         <id>https://derekjhanson.github.io/edpsyc/individual-differences.html</id>
 
-        <updated>2019-10-03T16:29:00-05:00</updated>
+        <updated>2019-10-04T15:36:49-05:00</updated>
             <summary>
                 <![CDATA[
-                    MotivationFear of Failure Achievement Goal TheoryMastery/Performance; Appraoch/Avoid GritGrit, Conscioentiousness, Grit, Grit-ShortSchoolAcademic Motivation (AMS) InterestSituational, intrinsic ProcrastinationAcademic Procrastination Boredom Self-RegulationSelf-Regulated Learning (SRL) Implicit BeliefsBelongingStereotype Threat, Belonging in School IntelligenceFixed, Growth/MalleableGrowth Mindset&hellip;
+                    Motivation and EmotionFear of Failure FOFAchievement Goal TheoryMastery/Performance; Appraoch/Avoid GritGrit, Conscioentiousness, Grit, Grit-ShortSchoolAcademic Motivation (AMS) InterestSituational, intrinsic ProcrastinationAcademic Procrastination Boredom Self-RegulationSelf-Regulated Learning (SRL) Expectancy x Value, Utility Value, E x&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h4 id="mcetoc_1dm9a0l6i1">Motivation</h4>
+                <h4 id="mcetoc_1dm9a0l6i1">Motivation and Emotion</h4>
 <table>
 <tbody>
 <tr>
 <td>Fear of Failure</td>
 <td> </td>
-<td> </td>
+<td> FOF</td>
 </tr>
 <tr>
 <td>Achievement Goal Theory</td>
@@ -68,6 +68,11 @@
 <td>Self-Regulated Learning (SRL)</td>
 <td> </td>
 </tr>
+<tr>
+<td>Expectancy x Value, Utility Value, E x V + C</td>
+<td>Expectations for success coupled with perceived value in the task; or simply utility value; or with cost as a factor, as well</td>
+<td>Hulleman</td>
+</tr>
 </tbody>
 </table>
 <h4 id="mcetoc_1dm9a25de2"> Implicit Beliefs</h4>
@@ -85,13 +90,13 @@
 </tr>
 <tr>
 <td>Nature of Knowledge</td>
+<td>How do you know you know something? where does knowledge come from?</td>
 <td>Epistemic Beliefs</td>
-<td> </td>
 </tr>
 <tr>
 <td>Self-Control</td>
 <td>Willpower, Self-Control</td>
-<td> MSLQ</td>
+<td>MSLQ</td>
 </tr>
 <tr>
 <td>Locus of Control </td>
@@ -100,11 +105,11 @@
 </tr>
 <tr>
 <td>Value</td>
-<td>Utility Value, Self-Value, Boring but Important, Value of Education/School</td>
+<td>Self-Value, Boring but Important, Value of Education/School</td>
 <td> </td>
 </tr>
 <tr>
-<td>Personality</td>
+<td>Personality Stability</td>
 <td>Whether people can change</td>
 <td> </td>
 </tr>
@@ -124,19 +129,14 @@
 <td> </td>
 </tr>
 <tr>
-<td>New Experiences</td>
-<td>Openness to Experience</td>
-<td> </td>
-</tr>
-<tr>
 <td>Entitlement</td>
-<td>Academic Entitlement</td>
-<td> </td>
+<td>How should the learning process work? What should teachers do for you as a student?</td>
+<td>Academic Entitlement Scale</td>
 </tr>
 <tr>
 <td>Metacognition</td>
 <td>Usefulness...</td>
-<td> MSLQ?</td>
+<td>MSLQ?</td>
 </tr>
 <tr>
 <td>Beliefs About Failure</td>
@@ -146,7 +146,7 @@
 <tr>
 <td>Memory</td>
 <td>Photographic, Permanent, Fallible, etc. (stability bias)</td>
-<td> </td>
+<td>Metamemory in Adults (MIA) subscales (or short form...)</td>
 </tr>
 <tr>
 <td>Studying</td>
@@ -170,17 +170,12 @@
 <tbody>
 <tr>
 <td>Big 5</td>
-<td>FFO and short version, or TIPI (Gosling 2003)</td>
-<td> </td>
-</tr>
-<tr>
-<td>Neuroticism</td>
-<td> </td>
-<td> </td>
+<td>Extraversion, Agreeableness, Openness, Conscientiousness, Neuroticism</td>
+<td>FFO and short version, or TIPI (Gosling 2003), 16PF</td>
 </tr>
 <tr>
 <td>Anxiety</td>
-<td> </td>
+<td>Similar to neruticism</td>
 <td> </td>
 </tr>
 <tr>
@@ -190,7 +185,7 @@
 </tr>
 <tr>
 <td>Curiosity, Inquisitiveness</td>
-<td> Open-minded thinking</td>
+<td>Open-minded thinking, similar to openness (Big 5)</td>
 <td> AOT</td>
 </tr>
 <tr>
@@ -200,18 +195,18 @@
 </tr>
 <tr>
 <td>Mindfulness</td>
-<td> </td>
+<td>Several subscales (attention, self-compassion, -)</td>
 <td>FFMQ, MAAS</td>
 </tr>
 <tr>
-<td>Decision-Making</td>
-<td>Rely upon heuristics, or more analytical</td>
-<td>CRT (multiple versions)</td>
+<td>Perspective-Taking</td>
+<td>Myside or otherside thinking bias?</td>
+<td>Toplak?</td>
 </tr>
 <tr>
-<td>Perspective-Taking</td>
-<td>Myside or otherside thinking bias</td>
-<td>? Toplak?</td>
+<td>Decision-Making</td>
+<td>Rely upon heuristics/intuition, or more analytical; how influential</td>
+<td>CRT (multiple versions)</td>
 </tr>
 <tr>
 <td>Impact of Context to Decision-Making</td>
@@ -221,7 +216,7 @@
 <tr>
 <td>Delay Discounting</td>
 <td>Consideration of future consequences</td>
-<td>CFC ()</td>
+<td>CFC</td>
 </tr>
 </tbody>
 </table>
@@ -235,22 +230,22 @@
 </tr>
 <tr>
 <td>Depression</td>
+<td>Inventory of symptoms</td>
 <td>Beck, alternative scales</td>
-<td> </td>
 </tr>
 <tr>
 <td>Life Satisfaction</td>
-<td> </td>
+<td>How satisfied with life are you? Or a component of your life.</td>
 <td>SLS (Diener), Student LSS (Huebner), Student LSS - Brief (Huebner)</td>
 </tr>
 <tr>
 <td>Need Satisfaction</td>
-<td> </td>
+<td>Under SDT, how well have your psychological needs been met (perceived)? </td>
 <td>(Ryan &amp; Deci)</td>
 </tr>
 <tr>
 <td>Recent Emotions</td>
-<td> </td>
+<td>In last 30 days, etc., how often did you feel...</td>
 <td>PANAS, Vitality (Ryan &amp; Frederick)</td>
 </tr>
 <tr>
@@ -262,6 +257,21 @@
 <td>Learning Climate</td>
 <td>The learning climate questionairre</td>
 <td>LCQ</td>
+</tr>
+<tr>
+<td>Attitude Towards School</td>
+<td>School, specific subjects (math)</td>
+<td>ISQ (identification with school), ATM (attitudes towards math)</td>
+</tr>
+<tr>
+<td>Disaffection with Learning</td>
+<td>Attitude towards learning in general</td>
+<td>(EvsD)</td>
+</tr>
+<tr>
+<td>School Engagement</td>
+<td>Levels of engagement with school / learning</td>
+<td>SSES, SEM, SEQ</td>
 </tr>
 </tbody>
 </table>
